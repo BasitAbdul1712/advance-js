@@ -13,8 +13,8 @@ else{
 
 //let name; value declare kore na thakle undefiend dekhabe.
 
-let name = 12;
-if (name || name == 0) {
+let name = '';
+if (name) {
     console.log('true');
 } 
 else{
